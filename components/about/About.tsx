@@ -15,13 +15,14 @@ export default function About() {
         <p className="mb-4 text-slate-400">
           <a className="font-medium text-secondary-color">Software developer</a>{" "}
           from Colombia. I got into the programming world at the young age of
-          14, my first programming language being Java. Since then, I haven't
-          stopped learning and being passionate about everything related to
-          technology. I also develop games with engines like Unity and Unreal as
-          a hobbie, even though I'm more into the web development world.
+          14, my first programming language being Java. Since then, I
+          haven&apos;t stopped learning and being passionate about everything
+          related to technology. I also develop games with engines like Unity
+          and Unreal as a hobbie, even though I&apos;m more into the web
+          development world.
         </p>
         <p className="mb-4 text-slate-400">
-          I've created and been part of multiple projects, I also like to
+          I&apos;ve created and been part of multiple projects, I also like to
           constantly update or improve my projects, these can be seen in my{" "}
           <a
             className="font-medium text-secondary-color cursor-pointer"
