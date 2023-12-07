@@ -36,7 +36,7 @@ export default function Projects() {
                   <GitHub />
                 </a>
                 <a
-                  href="https://github.com/FerT0/shoppey"
+                  href="https://shoppey-store.netlify.app/"
                   rel="noreferrer noopener"
                   target="_blank"
                   className="hover:text-[#2C74B3] duration-300"
